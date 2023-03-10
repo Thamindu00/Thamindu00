@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi prends
+Hi, I am Thamindu Rajakaruna.
+|Software Engineering Undergraduate at Informatics Institute of Technology - Sri Lanka affiliated with University of Westminster UK|
 
 
 ## 🌐 Socials:
