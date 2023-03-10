@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I am Thamindu Rajakaruna.
-|Software Engineering Undergraduate at Informatics Institute of Technology - Sri Lanka affiliated with University of Westminster UK|
+##Hi, I am Thamindu Rajakaruna.
+Software Engineering Undergraduate at Informatics Institute of Technology - Sri Lanka affiliated with University of Westminster UK
 
 
 ## 🌐 Socials:
